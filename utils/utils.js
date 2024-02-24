@@ -13,3 +13,6 @@ function ageValidator( age ){
 }
 ageValidator(age);
 
+function featureA(){
+    console.log("Added a feature A");
+}
