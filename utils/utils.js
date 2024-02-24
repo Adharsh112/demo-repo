@@ -2,6 +2,8 @@ function Adharsh(){
         console.log("printing my name ")
 }
 
+const age = 29
+
 function ageValidator( age ){
     if(age > 18){
         console.log("he is eligible the age is: ",age)
@@ -9,4 +11,6 @@ function ageValidator( age ){
     
     
 }
-ageValidator(19);
+ageValidator(age);
+
+c
