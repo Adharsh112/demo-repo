@@ -13,4 +13,3 @@ function ageValidator( age ){
 }
 ageValidator(age);
 
-c
