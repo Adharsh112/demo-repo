@@ -19,5 +19,5 @@ function featureA(){
 }
 function featureB(){
     console.log("Added a feature B");
-    
+    console.log("new feature added again ");
 }
