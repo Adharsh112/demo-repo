@@ -31,3 +31,7 @@ function featureC1(){
     console.log("new feature added again ");
 }
 
+function newFun(){
+    console.log("added new function on brach c");
+}
+
