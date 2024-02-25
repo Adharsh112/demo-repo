@@ -25,3 +25,13 @@ function featureC(){
     console.log("Added a feature C");
     console.log("new feature added again ");
 }
+
+function featureC1(){
+    console.log("Added a feature C1");
+    console.log("new feature added again ");
+}
+
+function newFun(){
+    console.log("added new function on brach c");
+}
+
