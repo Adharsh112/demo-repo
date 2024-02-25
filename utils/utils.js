@@ -21,3 +21,7 @@ function featureB(){
     console.log("Added a feature B");
     console.log("new feature added again ");
 }
+function featureC(){
+    console.log("Added a feature C");
+    console.log("new feature added again ");
+}
